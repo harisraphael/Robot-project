@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-int battery = 90;
+int battery = 80;
 cout << "Robot is running" << endl;
-cout << "Battery:" << "%" << endl;
+cout << "Battery:"<< battery << "%" << endl;
 return 0;
 }
 
