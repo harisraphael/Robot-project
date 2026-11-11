@@ -2,5 +2,5 @@
 ## SENSOR
 ### Ultrasonic Sensor
 ### Temperature Sensor
-### Pressure Sensor
-### Proximity Sensor
+### Photo Sensor
+### DHT Sensor
