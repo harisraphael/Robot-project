@@ -1,8 +1,7 @@
 # ROBOT PROJECT
-## SENSOR
+## SENSORS
 ### Ultrasonic Sensor
-### Temperature Sensor
-### Photo Sensor
-### DHT Sensor
-### IR Sensor
-### Speed Sensor
+### DHT22
+### IR SENSOR
+### LIDAR
+### LIDAR 2
